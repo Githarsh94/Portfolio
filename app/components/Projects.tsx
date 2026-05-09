@@ -10,7 +10,7 @@ const projects = [
     description:
       "Architected a scalable platform with OAuth2/OIDC and RBAC (Admin/Manager/Member), featuring high-performance hierarchical task tracking via materialized paths for optimized recursive queries. Engineered a Junior Dev Agent to resolve minor issues utilizing MCP for tool execution and RAG via pgvector for context.",
     tech: ["Next.js", "Tailwind CSS", "Spring Boot 4", "Spring AI", "MCP", "LLMs", "PostgreSQL", "Supabase", "pgvector"],
-    github: "https://github.com/Githarsh94",
+    github: "https://github.com/Githarsh94/jaljira",
     image: "/jaljira.png",
   },
   {
@@ -21,7 +21,7 @@ const projects = [
     description:
       "Built a scalable online testing platform using analytics and AI to improve academic performance. Focused on backend architecture with AI-powered question generation.",
     tech: ["Next.js", "Node.js", "Express", "MongoDB", "Gemini API"],
-    github: "https://github.com/Githarsh94",
+    github: "https://github.com/Githarsh94/ampskill",
     image: "/ampskill.png",
   },
   {

@@ -115,7 +115,7 @@ export default function Hero() {
           {[
             { href: "https://github.com/Githarsh94", icon: <GitFork size={20} />, label: "GitHub" },
             {
-              href: "https://linkedin.com/in/harshit-sharma",
+              href: "https://www.linkedin.com/in/harshit-sharma-5b1002168/",
               icon: <Link2 size={20} />,
               label: "LinkedIn",
             },

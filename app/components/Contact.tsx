@@ -17,13 +17,13 @@ const contacts = [
     icon: <Link2 size={20} />,
     label: "LinkedIn",
     value: "Harshit Sharma",
-    href: "https://linkedin.com/in/harshit-sharma",
+    href: "https://www.linkedin.com/in/harshit-sharma-5b1002168/",
   },
   {
     icon: <Code size={20} />,
     label: "LeetCode",
     value: "400+ Problems Solved",
-    href: "https://leetcode.com/u/harshit_sharma0/",
+    href: "https://leetcode.com/u/9417harshit/",
   },
 ];
 
